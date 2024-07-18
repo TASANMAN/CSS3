@@ -1,0 +1,9 @@
+div:hover {
+  background-color: palegreen;
+  color: crimson;
+}
+
+input:read-only {
+  background-color: gold;
+  color: black;
+}

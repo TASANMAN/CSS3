@@ -1,0 +1,53 @@
+h1 {
+  color: aquamarine;
+  width: 30px;
+  font-size: 50px;
+}
+
+.Greetings {
+  color: brown;
+  width: 50px;
+  font-size: 20px;
+}
+
+#match {
+  color: blue;
+}
+
+.divider {
+  background-color: yellowgreen;
+}
+
+.purple {
+  color: purple;
+}
+
+.black {
+  color: bisque;
+}
+
+footer p {
+  color: pink;
+}
+
+div > h2 {
+  color: blue;
+}
+
+.container > h2 {
+  color: aqua;
+}
+
+li:first-child {
+  color: plum;
+}
+
+li:last-child {
+  color: chocolate;
+}
+
+a[href='hola.com'] {
+  color: green;
+}
+
+/* A B C D */
